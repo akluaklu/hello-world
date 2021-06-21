@@ -6,3 +6,5 @@ And now I'm updating my file!
 branch test1
 
 branch test2
+
+branch test3
